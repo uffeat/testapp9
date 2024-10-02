@@ -1,0 +1,7 @@
+npm installation:
+npm create vite@latest
+npm i @rollup/plugin-dynamic-import-vars
+npm install @mui/material @emotion/react @emotion/styled
+npm install @fontsource/roboto
+npm install @mui/icons-material
+

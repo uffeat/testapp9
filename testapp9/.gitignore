@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Custom
+scratch_code/
+NOTES.txt
+TODO.txt
